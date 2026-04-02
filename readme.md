@@ -9,7 +9,7 @@
 
 # 🏆 Achievements  
 
-## 🥇 Competition Award  
+## 🏅 Competition Award  
 
 **2024 ICT Mentoring Competition**
 
