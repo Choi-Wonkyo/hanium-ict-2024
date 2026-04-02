@@ -13,7 +13,9 @@
 
 **2024 ICT Mentoring Competition**
 
-- 🏅 Award: **Honorable Mention (Finalist)**  
+- 🏅 Award: **Honorable Mention (Finalist)**
+- 📌 Recognized for developing an AI-powered mentor–mentee matching platform
+- 🤖 Implemented hybrid recommendation system and AI tutoring features  
 
 ---
 
