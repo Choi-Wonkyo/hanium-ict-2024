@@ -7,6 +7,38 @@
 
 <br>
 
+# 🏆 Achievements  
+
+## 🥇 Competition Award  
+
+**2024 ICT Mentoring Competition**
+
+- 🏅 Award: **Honorable Mention (Finalist)**  
+
+---
+
+## 📄 Academic Publication  
+
+### 📝 Published Paper  
+
+**Conference**  
+- Korea Information Processing Society (KIPS), 2024  
+
+**Paper Title**  
+> **DCR: Importance of Data Collection and Refinement for Mentor Matching and AI Tutoring Project**
+
+**Summary**  
+This paper introduces the concept of **DCR (Data Collection & Refinement)** and emphasizes:
+
+- 📊 The critical role of high-quality data collection  
+- 🧹 Systematic data preprocessing & refinement strategies  
+- 🤖 Their impact on improving mentor recommendation accuracy  
+- 📈 Enhanced performance of AI-based tutoring systems  
+
+---
+
+<br>
+
 # 📌 1. Project Overview  
 
 ---
@@ -275,53 +307,11 @@ Persistent runtime errors in specific modules.
 
 <br>
 
-# 🏆 6. Achievements  
+# 📈 6. Expected Impact  
 
 ---
 
-## 📄 Academic Publication  
-
-### 📝 Published Paper  
-
-**Conference**  
-- Korea Information Processing Society (KIPS), 2024  
-
-**Paper Title**  
-> **DCR: Importance of Data Collection and Refinement for Mentor Matching and AI Tutoring Project**
-
-**Summary**  
-This paper introduces the concept of **DCR (Data Collection & Refinement)** and emphasizes:
-
-- 📊 The critical role of high-quality data collection  
-- 🧹 Systematic data preprocessing & refinement strategies  
-- 🤖 Their impact on improving mentor recommendation accuracy  
-- 📈 Enhanced performance of AI-based tutoring systems  
-
-The research highlights how structured data pipelines significantly improve:
-
-- Recommendation reliability  
-- Learning path personalization  
-- Overall system performance  
-
-> 💡 This publication validates the technical and research contribution of the project beyond practical implementation.
-
----
-
-## 🥇 Competition Award  
-
-**2024 ICT Mentoring Competition**
-
-- 🏅 Award: **Honorable Mention (Finalist)**  
-
----
-
-<br>
-
-# 📈 7. Expected Impact  
-
----
-
-## 7.1 👤 User Perspective  
+## 6.1 👤 User Perspective  
 
 - 💰 Affordable mentoring alternative  
 - ⏰ 24/7 AI-based learning support  
@@ -330,7 +320,7 @@ The research highlights how structured data pipelines significantly improve:
 
 ---
 
-## 7.2 🎓 Educational Perspective  
+## 6.2 🎓 Educational Perspective  
 
 ### 💡 Practical Experience In:
 
