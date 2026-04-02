@@ -1,5 +1,7 @@
 # 🤖 AI Tutor-Based Mentor Matching Platform  
 
+📅 Project Duration: Jan 2024 – Oct 2024  
+
 > 🎓 **An Android-based mentor–mentee matching platform**  
 > Personalized mentor recommendations + AI-powered tutoring based on user preferences and learning patterns.
 
