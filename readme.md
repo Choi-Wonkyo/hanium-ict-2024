@@ -5,8 +5,6 @@
 > 🎓 **An Android-based mentor–mentee matching platform**  
 > Personalized mentor recommendations + AI-powered tutoring based on user preferences and learning patterns.
 
----
-
 <br>
 
 # 🏆 Achievements  
